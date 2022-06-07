@@ -24,3 +24,6 @@ function divisivel (num){
 }
 
 divisivel(17)
+divisivel(15)
+divisivel(5)
+divisivel(12)

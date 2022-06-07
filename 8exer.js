@@ -13,3 +13,4 @@ function maiorNumero(num1,num2){
 }
 
 maiorNumero(78,560)
+maiorNumero(560,78)
