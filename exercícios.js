@@ -1,18 +1,6 @@
 /* 
-1. Armazene seu nome em uma variável, depois faça a concatenação com a string  'Olá'  para escrever no console 'Olá SEUNOME'
 
-2. Crie um programa que calcule a média dos valores:
-10.5
-33.96
-20.2
-8.4 
 
-3. Armazene os nomes de 5 frutas em um array, e escreva no console a fruta que esteja no índice 3.
-
-4. Crie um programa que diga qual o comprimento das strings:
-'javaScript'
-'desenvolvimento'
-'1+1'
 
 5. Crie uma função para cada uma das operações básicas da matemática (adição, subtração, divisão e multiplicação). As funções devem receber dois parâmetros numéricos e retornar o resultado da operação.
 
